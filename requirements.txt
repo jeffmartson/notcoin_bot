@@ -11,3 +11,4 @@ aiohttp-proxy>=0.1.2
 pythonmonkey>=0.2.3
 opentele>=1.15.1
 aiofiles>=23.2.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
